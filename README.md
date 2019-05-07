@@ -1,6 +1,6 @@
 # Code Kata Getting Started
 
-[Slides for Session 1](https://speakerdeck.com/miccheng/juniordevsg-coding-dojo-session-1)
+[Intro to Coding Dojo](https://speakerdeck.com/miccheng/juniordevsg-intro-to-coding-dojo)
 
 - [NodeJS with Jest](./nodejs_jest.md)
 - [Ruby with RSpec](./ruby_rspec.md)

@@ -6,3 +6,4 @@
 - [Ruby with RSpec](./ruby_rspec.md)
 - [Go with Go Test](./golang_gotest.md)
 - [Swift](./swift.md)
+- [Python with pytest](./python_pytest.md)

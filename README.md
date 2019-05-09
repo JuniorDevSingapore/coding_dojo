@@ -1,5 +1,7 @@
 # Code Kata Getting Started
 
+![First Developer's Gym](./images/first_dev_gym.jpg)
+
 This is meant to be a guide for people involved in JuniorDevSG Coding Dojos.
 
 Here's a [quick intro to the Coding Dojo](https://speakerdeck.com/miccheng/juniordevsg-intro-to-coding-dojo).
@@ -17,6 +19,7 @@ Get started with your test environment in various programming languages.
 
 ## Contributors
 
+- Gordon Song ([songguoqiang](https://github.com/songguoqiang))
 - Michael Cheng ([miccheng](https://github.com/miccheng))
 - Isha Tripathi ([isha-tripathi](https://github.com/isha-tripathi))
 - Björn Andersson ([gaqzi](https://github.com/gaqzi))

@@ -1,10 +1,22 @@
 # Code Kata Getting Started
 
-[Intro to Coding Dojo](https://speakerdeck.com/miccheng/juniordevsg-intro-to-coding-dojo)
+This is meant to be a guide for people involved in JuniorDevSG Coding Dojos.
+
+Here's a [quick intro to the Coding Dojo](https://speakerdeck.com/miccheng/juniordevsg-intro-to-coding-dojo).
+
+## Bootstrap Guide
+
+Get started with your test environment in various programming languages.
 
 - [Go with Go Test](./golang_gotest.md)
+- [Java with Junit, Gradle](./java_junit.md)
 - [NodeJS with Jest](./nodejs_jest.md)
 - [Python with pytest](./python_pytest.md)
 - [Ruby with RSpec](./ruby_rspec.md)
 - [Swift](./swift.md)
-- [Java with Junit, Gradle](./java_junit.md)
+
+## Contributors
+
+- Michael Cheng ([miccheng](https://github.com/miccheng))
+- Isha Tripathi ([isha-tripathi](https://github.com/isha-tripathi))
+- Björn Andersson ([gaqzi](https://github.com/gaqzi))

@@ -41,7 +41,8 @@ Here's instructions on installing Jest and bootstrapping for [ES6 module compila
 
 	```json
 	"scripts": {
-	  "test": "jest"
+	  "test": "jest",
+	  "test:watch": "jest --watch"
 	}
 	```
 

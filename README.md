@@ -1,12 +1,12 @@
-# Code Kata Getting Started
+# Coding Dojo - Getting Started
 
 ![First Developer's Gym](./images/first_dev_gym.jpg)
 
-This is meant to be a guide for people involved in JuniorDevSG Coding Dojos.
+This is meant to be a guide for participants involved in JuniorDevSG Coding Dojos.
 
 Here's a [quick intro to the Coding Dojo](https://speakerdeck.com/miccheng/juniordevsg-intro-to-coding-dojo).
 
-## Bootstrap Guide
+## Code Kata Bootstrap Guide
 
 Get started with your test environment in various programming languages.
 

@@ -4,7 +4,7 @@
 
 This is meant to be a guide for participants involved in JuniorDevSG Coding Dojos.
 
-Here's a [quick intro to the Coding Dojo](https://speakerdeck.com/miccheng/juniordevsg-intro-to-coding-dojo).
+Here's a [quick intro to the Coding Dojo](https://docs.google.com/presentation/d/1c7jKltjGG8nK3r7iwODpC6qbZ4MxN1Iwd_e4zxgG1NY/edit?usp=sharing).
 
 ## Code Kata Bootstrap Guide
 

@@ -14,6 +14,7 @@ Get started with your test environment in various programming languages.
 - [F# with xUnit](./fsharp_xunit.md)
 - [Go with Go Test](./golang_gotest.md)
 - [Java with Junit, Gradle](./java_junit.md)
+- [Kotlin with Kotlin Test, Gradle](./kotlin_kotlintest.md)
 - [NodeJS with Jest](./nodejs_jest.md)
 - [Python with pytest](./python_pytest.md)
 - [Ruby with RSpec](./ruby_rspec.md)

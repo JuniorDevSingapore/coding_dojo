@@ -27,3 +27,4 @@ Get started with your test environment in various programming languages.
 - Michael Cheng ([miccheng](https://github.com/miccheng))
 - Isha Tripathi ([isha-tripathi](https://github.com/isha-tripathi))
 - Björn Andersson ([gaqzi](https://github.com/gaqzi))
+- Paul Lorett Amazona ([whatevergeek](https://github.com/whatevergeek))

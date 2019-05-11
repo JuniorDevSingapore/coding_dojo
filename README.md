@@ -17,6 +17,7 @@ Get started with your test environment in various programming languages.
 - [NodeJS with Jest](./nodejs_jest.md)
 - [Python with pytest](./python_pytest.md)
 - [Ruby with RSpec](./ruby_rspec.md)
+- [Rust with Cargo Test](./rust_cargotest.md)
 - [Swift](./swift.md)
 
 ## Contributors

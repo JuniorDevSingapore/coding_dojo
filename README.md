@@ -16,6 +16,7 @@ Get started with your test environment in various programming languages.
 - [Java with Junit, Gradle](./java_junit.md)
 - [Kotlin with Kotlin Test, Gradle](./kotlin_kotlintest.md)
 - [NodeJS with Jest](./nodejs_jest.md)
+- [NodeJS with Mocha & Chai](./nodejs_mocha.md)
 - [Python with pytest](./python_pytest.md)
 - [Ruby with RSpec](./ruby_rspec.md)
 - [Rust with Cargo Test](./rust_cargotest.md)
@@ -28,3 +29,4 @@ Get started with your test environment in various programming languages.
 - Isha Tripathi ([isha-tripathi](https://github.com/isha-tripathi))
 - Björn Andersson ([gaqzi](https://github.com/gaqzi))
 - Paul Lorett Amazona ([whatevergeek](https://github.com/whatevergeek))
+- YING Ka Ho ([yingkh](https://github.com/yingkh))

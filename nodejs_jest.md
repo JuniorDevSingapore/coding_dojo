@@ -50,7 +50,15 @@ Here's instructions on installing Jest and bootstrapping for [ES6 module compila
 
 	```json
 	{
-	  "presets": ["@babel/preset-env"]
+		"presets": [
+			["@babel/preset-env",
+				{
+					"targets": {
+						"node": "10"
+					}
+				}
+			]
+		]
 	}
 	```
 

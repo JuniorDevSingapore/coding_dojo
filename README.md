@@ -21,6 +21,7 @@ Get started with your test environment in various programming languages.
 - [Ruby with RSpec](./ruby_rspec.md)
 - [Rust with Cargo Test](./rust_cargotest.md)
 - [Swift](./swift.md)
+- [Scala with ScalaTest](./scala_scalatest.md)
 
 ## Contributors
 

@@ -52,7 +52,7 @@ sbt ~test:compile
 The seed is a template that can be found [here](https://github.com/scala/scala-seed.g8). It sets up a new sbt project with some sensible defaults.
 
 Structure of the project:
-
+```
    ├── build.sbt // contains settings for the build, for e.g. Scala version, project version and project name
    ├── project // build support files
    │   └── Dependencies.scala // lists dependencies
@@ -63,6 +63,7 @@ Structure of the project:
        │   └── scala // Scala code goes here
        └── test
            └── scala // Scala tests go here
+```
 
 ## References
 - [Scala language guide](https://docs.scala-lang.org/tour/tour-of-scala.html)

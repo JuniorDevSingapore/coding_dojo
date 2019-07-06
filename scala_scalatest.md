@@ -6,46 +6,46 @@ Prerequisites: JDK - please download and install from [AdoptOpenJDK](https://ado
 
 1. Install sbt:
 
-Mac:
-```bash
-$ brew install sbt@1
-```
+    Mac:
+    ```bash
+    $ brew install sbt@1
+    ```
 
-Windows:
-Install msi from [here](https://www.scala-sbt.org/release/docs/Installing-sbt-on-Windows.html)
+    Windows:
+    Install msi from [here](https://www.scala-sbt.org/release/docs/Installing-sbt-on-Windows.html)
 
-Linux:
-[Installation instructions](https://www.scala-sbt.org/release/docs/Installing-sbt-on-Linux.html)
+    Linux:
+    [Installation instructions](https://www.scala-sbt.org/release/docs/Installing-sbt-on-Linux.html)
 
 2. Create new project from seed:
 
-```bash
-$ sbt new sbt/scala-seed.g8
-```
+    ```bash
+    $ sbt new sbt/scala-seed.g8
+    ```
 
-After installing everything, you will be prompted for the project name:
+    After installing everything, you will be prompted for the project name:
 
-```bash
-A minimal Scala project.
+    ```bash
+    A minimal Scala project.
 
-name [Scala Seed Project]:
-```
+    name [Scala Seed Project]:
+    ```
 
-Enter `kata` and then `cd kata`
+    Enter `kata` and then `cd kata`
 
 3. You will find an example source file at `src/main/scala/example/Hello.scala` and an example test file at `src/test/scala/example/HelloSpec.scala`.
 
 4. You may run the tests with:
 
-```bash
-sbt test
-```
+    ```bash
+    sbt test
+    ```
 
-To have sbt watch the file system for changes(run tests on save), use
+    To have sbt watch the file system for changes(run tests on save), use
 
-```bash
-sbt ~test:compile
-```
+    ```bash
+    sbt ~test:compile
+    ```
 
 ## Explanation
 

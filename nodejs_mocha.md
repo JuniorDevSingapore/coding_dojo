@@ -109,9 +109,9 @@ Here's instructions on installing Mocha and Chai for Node.
 	```bash
 	$ mocha
 
-  ✓ 1 + 2 should be 3
+	✓ 1 + 2 should be 3
 
-  1 passing (5ms)
+	1 passing (5ms)
 	```
 
 10. Read up more about this set of test frameworks:

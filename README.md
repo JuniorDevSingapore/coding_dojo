@@ -31,3 +31,4 @@ Get started with your test environment in various programming languages.
 - Björn Andersson ([gaqzi](https://github.com/gaqzi))
 - Paul Lorett Amazona ([whatevergeek](https://github.com/whatevergeek))
 - YING Ka Ho ([yingkh](https://github.com/yingkh))
+- William Haw ([williamhaw](https://github.com/williamhaw))

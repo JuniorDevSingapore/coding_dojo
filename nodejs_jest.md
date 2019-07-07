@@ -112,4 +112,3 @@ Here's instructions on installing Jest and bootstrapping for [ES6 module compila
 [babel]: https://babeljs.io/docs/en/
 [babel-preset-env]: https://babeljs.io/docs/en/babel-preset-env
 [jest-matchers]: https://jestjs.io/docs/en/using-matchers
-[sp-nexus-npm]: https://code.in.spdigital.io/sp-digital/sp-devops-docs/blob/master/how-tos/nexus/how-to-npmjs.md

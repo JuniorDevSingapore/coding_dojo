@@ -11,6 +11,7 @@ Here's a [quick intro to the Coding Dojo](https://docs.google.com/presentation/d
 Get started with your test environment in various programming languages.
 
 - [C# with xUnit](./csharp_xunit.md)
+- [C++ with Googletest](./c++_gtest.md)
 - [F# with xUnit](./fsharp_xunit.md)
 - [Go with Go Test](./golang_gotest.md)
 - [Java with Junit, Gradle](./java_junit.md)
@@ -32,3 +33,4 @@ Get started with your test environment in various programming languages.
 - Paul Lorett Amazona ([whatevergeek](https://github.com/whatevergeek))
 - YING Ka Ho ([yingkh](https://github.com/yingkh))
 - William Haw ([williamhaw](https://github.com/williamhaw))
+- Dheeraj Oswal ([oswal-dheeraj](https://github.com/oswal-dheeraj))

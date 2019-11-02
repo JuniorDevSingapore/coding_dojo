@@ -12,6 +12,7 @@ Get started with your test environment in various programming languages.
 
 - [C# with xUnit](./csharp_xunit.md)
 - [C++ with Googletest](./c++_gtest.md)
+- [Dart with Test](./dart_test.md)
 - [F# with xUnit](./fsharp_xunit.md)
 - [Go with Go Test](./golang_gotest.md)
 - [Java with Junit, Gradle](./java_junit.md)

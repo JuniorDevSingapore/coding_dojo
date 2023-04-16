@@ -18,6 +18,7 @@ Get started with your test environment in various programming languages.
 - [Java with Junit, Gradle](./java_junit.md)
 - [Kotlin with Kotlin Test, Gradle](./kotlin_kotlintest.md)
 - [NodeJS with Jest](./nodejs_jest.md)
+- [NodeJS/TypeScript with Jest](./nodejs_typescript_jest.md)
 - [NodeJS with Mocha & Chai](./nodejs_mocha.md)
 - [NodeJS with Cucumber](./nodejs_cucumber.md)
 - [Python with pytest](./python_pytest.md)
